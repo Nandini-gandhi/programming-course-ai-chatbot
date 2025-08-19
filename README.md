@@ -16,5 +16,3 @@ Conversational assistant for an Intro to Programming course. It answered logisti
 - API design: [`API.md`](API.md)
 - Current status: [`STATUS.md`](STATUS.md)
 
-> **Note on code**  
-> The classroom implementation is archived and not public. If you want a minimal open-source recreation using synthetic content, open an issue.
