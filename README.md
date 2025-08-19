@@ -1,1 +1,22 @@
-# programming-course-ai-chatbot
+# AI Programming Tutor (RAG + Course Assistant)
+
+Conversational assistant for an Intro to Programming course. It answered logistics questions, explained Python concepts, and generated practice problems with **citations to source notes**.
+
+**Live demo / published link:** <PASTE_YOUR_LINK_HERE>  
+**Paper:** [`docs/Dissertation_Final.pdf`](docs/Dissertation_Final.pdf)
+
+## Demo
+<img alt="demo 1" src="assets/demo_1.png" width="720"/>
+<img alt="demo 2" src="assets/demo_2.png" width="720"/>
+
+## What this repo contains
+- Demo images, the full dissertation, and reference docs describing how the system worked.
+- Status: original 2023–24 code isn’t public; this repo focuses on outcomes, design, and demo materials.
+
+## Learn more
+- Architecture: [`ARCHITECTURE.md`](ARCHITECTURE.md)
+- API design: [`API.md`](API.md)
+- Current status: [`STATUS.md`](STATUS.md)
+
+> **Note on code**  
+> The classroom implementation is archived and not public. If you want a minimal open-source recreation using synthetic content, open an issue.
