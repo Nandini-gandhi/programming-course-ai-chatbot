@@ -2,12 +2,10 @@
 
 Conversational assistant for an Intro to Programming course. It answered logistics questions, explained Python concepts, and generated practice problems with **citations to source notes**.
 
-**Live demo / published link:** <PASTE_YOUR_LINK_HERE>  
 **Paper:** [`docs/Dissertation_Final.pdf`](docs/Dissertation_Final.pdf)
 
 ## Demo
 <img alt="demo 1" src="assets/demo_1.png" width="720"/>
-<img alt="demo 2" src="assets/demo_2.png" width="720"/>
 
 ## What this repo contains
 - Demo images, the full dissertation, and reference docs describing how the system worked.
